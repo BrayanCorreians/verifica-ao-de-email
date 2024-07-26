@@ -16,6 +16,9 @@ O algoritmo de validação de CPF verifica se o CPF segue o formato e as regras 
  
 ### Requisitos
  
-- [Linguagem/Plataforma Específica] (por exemplo, css, Java e html )
+- [Linguagem/Plataforma Específica] (por exemplo, css, Java e html
 
-readme pronto
+#dentro dos codigos ha varios comentarios explicando o que cada codigo faz e pra que serve,
+
+
+#fique meio confuso sobre se era sobre e_mail ou cpf entao mandei esse repositorio aqui.
