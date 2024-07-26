@@ -17,3 +17,5 @@ O algoritmo de validação de CPF verifica se o CPF segue o formato e as regras 
 ### Requisitos
  
 - [Linguagem/Plataforma Específica] (por exemplo, css, Java e html )
+
+readme pronto
