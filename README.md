@@ -5,7 +5,7 @@ O **Verificador de CPF** é um aplicativo simples que permite verificar a valida
 ## Funcionalidades
  
 - **Validação de CPF**: Verifica se um CPF fornecido é válido ou inválido.
-- **Interface Amigável**: Interface de usuário intuitiva para fácil uso.
+- **Interface Amigável**: Na interface dei uma zuado mas é culpa dos desing da sala KK.
 - **Feedback Imediato**: Mostra o resultado da verificação instantaneamente.
  
 ## Como Funciona
